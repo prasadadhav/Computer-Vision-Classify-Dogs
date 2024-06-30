@@ -43,11 +43,10 @@ _________________________________________________________________
 
 # Results
 
-The model performs qutie well. The validation loss is acceptable, however, we don't see a clear trend in the loss.
-Hence, should try training the model for longer.
+The model performs qutie well. The validation loss is acceptable.
 
-<!--## 30 epochs
-![image](training_validation_loss_2x2pooling_30epochs.png)-->
+## 30 epochs
+![image](training_validation_loss_30epochs.png)
 
 ## 50 epochs
 ![image](training_validation_loss_50epochs.png)
