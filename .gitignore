@@ -1,0 +1,4 @@
+
+*.h5
+./zzz_my_predictions
+./logs
